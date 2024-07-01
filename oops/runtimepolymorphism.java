@@ -14,6 +14,7 @@ package oops;
 public class runtimepolymorphism {
     public static void main(String[] args) {
         sum b = new sum();
+        b.bike();
 
       multi a = new multi();
         a.bike();
